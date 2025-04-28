@@ -1,0 +1,1 @@
+tentar entrada de de dados cmd python arquivo.py < arquivo de entrada
